@@ -1,2 +1,2 @@
-# basic-countdown
-Basic countdown anybody can use. 
+# basic-clock
+Basic clock anybody can use. 
